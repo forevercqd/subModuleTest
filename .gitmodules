@@ -1,0 +1,9 @@
+[submodule "vundle"]
+	path = vundle
+	url = git@github.com:forevercqd/vundle.git
+[submodule "gitTest"]
+	path = gitTest
+	url = git@github.com:forevercqd/gitTest.git
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = git@github.com:forevercqd/oh-my-zsh.git
